@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Hydrating Face Cream",
+        "description": "A nourishing face cream that provides long-lasting hydration for dry skin.",
+        "price": 25.99,
+        "image": "https://imgproxy.attic.sh/unsafe/s:540:540/aHR0cHM6Ly9hdHRp/Yy5zaC94dzM3bTFl/dzl4cXUyNmY2MnBv/a211ejJyeXcw.webp",
+        "id": "433d3bee-4c39-4517-bab4-b3a7a173e589"
+    },
+    {
+        "name": "Revitalizing Eye Serum",
+        "description": "Brighten and tighten under-eye areas with this powerful serum.",
+        "price": 29.50,
+        "image": "https://images.pexels.com/photos/12913038/pexels-photo-12913038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "51e8e71e-c67b-4ccc-874b-1e8f7777e03f"
+    },
+    {
+        "name": "Matte Liquid Lipstick",
+        "description": "A vibrant matte liquid lipstick that lasts all day.",
+        "price": 15.00,
+        "image": "https://attic.sh/j4cxd6f19nv5p3gl4tm8ozlcqqaz",
+        "id": "f868d232-fe1f-4c07-93c3-9874948c523c"
+    },
+    {
+        "name": "Gentle Cleansing Gel",
+        "description": "A mild gel cleanser suitable for sensitive skin.",
+        "price": 18.75,
+        "image": "https://images.pexels.com/photos/14836428/pexels-photo-14836428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "7b4d5b57-bcd0-4fa4-9b33-511ec1a29abc"
+    },
+    {
+        "name": "Daily Sunscreen SPF 50",
+        "description": "Lightweight sunscreen for everyday protection against UV rays.",
+        "price": 22.30,
+        "image": "https://images.pexels.com/photos/18323693/pexels-photo-18323693/free-photo-of-tube-of-sunscreen-held-on-the-sea-surface.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "8dd56a23-099b-4c5b-b3e5-1540795195ea"
+    },
+    {
+        "name": "Silk Finish Blush",
+        "description": "Add a natural flush to your cheeks with this silky smooth blush.",
+        "price": 12.99,
+        "image": "https://attic.sh/p8skzkp5p43663r9dnu7qul37z2v",
+        "id": "45699892-bc96-4742-80eb-3b78ecb7fd12"
+    },
+    {
+        "name": "Volumizing Mascara",
+        "description": "Achieve fuller, longer lashes with our volumizing mascara.",
+        "price": 19.00,
+        "image": "https://cdn12.picryl.com/photo/2016/12/31/mascara-red-cosmetics-ac3bdb-1024.jpg",
+        "id": "3e4116ae-96d7-4c81-9612-cf63184a1c51"
+    },
+    {
+        "name": "Charcoal Detox Mask",
+        "description": "Draw out impurities with this deep-cleansing charcoal mask.",
+        "price": 28.50,
+        "image": "https://images.pexels.com/photos/6977399/pexels-photo-6977399.jpeg",
+        "id": "acbb5c6d-6720-4226-84f3-f5237e4ab478"
+    },
+    {
+        "name": "Aloe Vera Toner",
+        "description": "Soothe and balance your skin with this refreshing toner.",
+        "price": 16.40,
+        "image": "https://images.pexels.com/photos/14798571/pexels-photo-14798571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "37f7230f-b423-4132-92c7-0ecae43a22bd"
+    },
+    {
+        "name": "Velvet Finish Setting Spray",
+        "description": "Lock in your makeup with this weightless setting spray.",
+        "price": 14.20,
+        "image": "https://images.pexels.com/photos/5240270/pexels-photo-5240270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "d063bc97-c11f-422b-a9ee-6489e75c278a"
+    },
+    {
+        "name": "Organic Lip Balm",
+        "description": "Keep your lips soft and smooth with our organic lip balm.",
+        "price": 5.99,
+        "image": "https://images.pexels.com/photos/14438172/pexels-photo-14438172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "1f5cf6db-512b-40eb-b733-aa89d7bb23c7"
+    },
+    {
+        "name": "Sheer Glow Foundation",
+        "description": "Lightweight foundation with a natural finish for radiant skin.",
+        "price": 30.00,
+        "image": "https://images.pexels.com/photos/9348325/pexels-photo-9348325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "95b718e5-56b0-451f-82fb-87c22ee48570"
+    },
+    {
+        "name": "Cooling Cucumber Eye Pads",
+        "description": "Reduce puffiness and refresh your eyes with cucumber-infused pads.",
+        "price": 10.50,
+        "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/72/174/XXL_p0188017472.jpg",
+        "id": "4fb5fc47-e793-4a1c-9775-d22b38ec455a"
+    },
+    {
+        "name": "Rosehip Oil",
+        "description": "100% pure rosehip oil to hydrate and repair skin.",
+        "price": 24.75,
+        "image": "https://i1.pickpik.com/photos/458/1018/357/essential-oils-alternative-aroma-aromatic-preview.jpg",
+        "id": "e0a83afe-b630-4391-955b-27d7ec3d82a2"
+    },
+    {
+        "name": "Anti-Frizz Hair Serum",
+        "description": "Tame flyaways and add shine with this anti-frizz serum.",
+        "price": 18.50,
+        "image": "https://images.pexels.com/photos/18186236/pexels-photo-18186236/free-photo-of-anti-frizz-hair-serum-in-hand.jpeg",
+        "id": "338c8f2a-5cbe-4630-9bc7-b4632d37cbe2"
+    },
+    {
+        "name": "Peach Scented Body Lotion",
+        "description": "Hydrate and soften your skin with a light peach scent.",
+        "price": 13.00,
+        "image": "https://attic.sh/oroxw8nv4r6dz7t7ljkw9akef29k",
+        "id": "7f00f00f-bf7c-49e4-871c-ae39c6728e17"
+    },
+    {
+        "name": "Lavender Bath Salts",
+        "description": "Relax and unwind with calming lavender-infused bath salts.",
+        "price": 12.00,
+        "image": "https://i2.pickpik.com/photos/86/1014/470/beauty-bath-salts-lavender-preview.jpg",
+        "id": "932a456a-2e1b-4bc3-bd71-a39822a69478"
+    },
+    {
+        "name": "Gold-Infused Face Mask",
+        "description": "A luxurious mask to rejuvenate and brighten your skin.",
+        "price": 40.00,
+        "image": "https://images.pexels.com/photos/11898947/pexels-photo-11898947.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "b913c660-30ff-45f2-832c-256845fb9e73"
+    },
+    {
+        "name": "Minty Fresh Toothpaste",
+        "description": "Natural toothpaste for a refreshing and healthy smile.",
+        "price": 7.50,
+        "image": "https://live.staticflickr.com/96/217969705_7b142f73e1_h.jpg",
+        "id": "b1eb98ca-0a42-43c1-9f3d-088021ab75d0"
+    },
+    {
+        "name": "Whitening Serum",
+        "description": "Lighten dark spots with this highly effective whitening serum.",
+        "price": 35.00,
+        "image": "https://images.pexels.com/photos/19833254/pexels-photo-19833254/free-photo-of-beauty-product-in-dropper.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "id": "0f2e3129-05a3-4f96-b372-da8ca7e1096a"
+    }
+]
